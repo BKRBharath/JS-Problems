@@ -1,5 +1,4 @@
 const promise = new Promise((resolve, reject) => {
-    // Example logic for resolving or rejecting the promise
     const success = true;
     if (success) {
         resolve("Promise resolved successfully!");

@@ -10,3 +10,4 @@ function emp1(name, salary,designation){
     console.log(name,salary,designation);
 }
 emp1("nani",18000,"developer");
+
